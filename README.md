@@ -33,10 +33,18 @@ GitHub 个人主页模板（Python / AI 应用开发）
 
 ## 📬 联系我
 
-<a href="mailto:13889754383@163.com">
-  <img src="https://img.shields.io/badge/163%20EMAIL-13889754383%40163.com-EA4335?style=for-the-badge&logoColor=white" alt="163 Email">
-</a>
-<img src="https://img.shields.io/badge/WECHAT-13889754383-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat">
+
+## 📬 联系我
+
+<p align="center">
+  <a href="mailto:13889754383@163.com">
+    <img src="https://img.shields.io/badge/163%20EMAIL-13889754383%40163.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="163 Email" />
+  </a>
+  <a href="./assets/wechat-qr.png">
+    <img src="https://img.shields.io/badge/WECHAT-13889754383-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+  </a>
+</p>
+
 
 
 
