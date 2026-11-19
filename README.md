@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm [你的昵称]
+# 👋 Hi, I'm Tsymq
 
 🎯 求职方向：Python / AI 应用开发
 
