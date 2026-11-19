@@ -10,8 +10,6 @@ GitHub 个人主页模板（Python / AI 应用开发）
 
 <div align="center">
   <img width="100%" alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:80DDC4,100:6895D0&height=170&section=header&text=YOUR_NAME&fontSize=42&fontColor=FFFFFF&fontAlignY=38" />
-  <h3>🐍 Python · 🤖 AI Application Development</h3>
-  <p>Learning by building · 让 AI 应用真正落地</p>
 </div>
 
 
