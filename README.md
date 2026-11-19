@@ -9,7 +9,7 @@ GitHub 个人主页模板（Python / AI 应用开发）
 	-->
 
 <div align="center">
-  <img width="100%" alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:80DDC4,100:6895D0&height=170&section=header&text=YOUR_NAME&fontSize=42&fontColor=FFFFFF&fontAlignY=38" />
+  <img width="100%" alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:80DDC4,100:6895D0&height=170&section=header&text=Lz-20&fontSize=42&fontColor=FFFFFF&fontAlignY=38" />
 </div>
 
 
