@@ -31,10 +31,10 @@ GitHub 个人主页模板（Python / AI 应用开发）
 ## 📬 联系我
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Lz-20">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/Lz-20?tab=repositories">
     <img alt="My Projects" src="https://img.shields.io/badge/PROJECTS-3776AB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -72,7 +72,7 @@ GitHub 个人主页模板（Python / AI 应用开发）
 
 - 技术栈：Python / FastAPI / ...（根据实际填写）
 - 项目亮点：...（根据实际填写）
-- [GitHub 源码](https://github.com/YOUR_USERNAME/REAL_REPO)
+- [GitHub 源码](https://github.com/Lz-20/REAL_REPO)
 	-->
 
 ---
@@ -100,7 +100,7 @@ GitHub 个人主页模板（Python / AI 应用开发）
 ## 🌱 GitHub 贡献动态
 
 <div align="center">
-  <img width="100%" alt="GitHub contributions" src="https://github-contributions.vercel.app/api/v1/YOUR_USERNAME" />
+  <img width="100%" alt="GitHub contributions" src="https://github-contributions.vercel.app/api/v1/Lz-20" />
 </div>
 
 
