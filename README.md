@@ -30,14 +30,14 @@ GitHub 个人主页模板（Python / AI 应用开发）
 
 ## 📬 联系我
 
-<div align="center">
-  <a href="https://github.com/Lz-20">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lz-20?tab=repositories">
-    <img alt="My Projects" src="https://img.shields.io/badge/PROJECTS-3776AB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+
+## 📬 联系我
+
+<a href="mailto:13889754383@163.com">
+  <img src="https://img.shields.io/badge/163%20EMAIL-13889754383%40163.com-EA4335?style=for-the-badge&logoColor=white" alt="163 Email">
+</a>
+<img src="https://img.shields.io/badge/WECHAT-13889754383-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat">
+
 
 
 <!-- 个人网站上线后，可在这里增加 Blog 徽章与链接。 -->
